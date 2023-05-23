@@ -1,0 +1,131 @@
+body {
+    background-image: url(img/backgroun.webp);
+}
+h1 {
+    text-align: center;
+}
+table {
+    width: 50%;
+    height: 300px;
+    margin: 0 auto;
+}
+caption {
+    background-color: green;
+    padding-bottom: 10;
+    padding-bottom: 20px;
+    font-size: 30px;
+}
+.black {
+    background-color: black;
+}
+.teal {
+    background-color: teal;
+}
+.blue {
+    background-color: blue;
+}
+.navy {
+    background-color: navy;
+}
+.lime {
+    background-color: lime;
+}
+.white {
+    background-color: white;
+}
+.purple {
+   background-color: purple;
+}
+.black1 {
+    background-color: black;
+}
+.red {
+    background-color: red;
+}
+.fuchsia {
+    background-color: fuchsia;
+}
+.olive {
+    background-color: olive;
+}
+.grey {
+    background-color: grey;
+}
+.fuchsia1 {
+    background-color: fuchsia;
+}
+.green {
+    background-color: green;
+}
+.negro {
+    display:inline-block;
+    color: black;
+    
+    
+}   
+.tila {
+    display: inline-block;
+    color:teal;
+  
+}
+.azul{
+    display:inline-block;
+    color:blue;
+}
+.azul-navy{
+    display:inline-block;
+    color:navy;
+}
+.lima{
+    display: inline-block;
+    color:lime;
+}
+.blanco{
+    display: inline-block;
+    color:white;
+}
+.purpura{
+    display: inline-block;
+    color: purple;
+}
+.amarillo{
+    display:inline-block;
+    color:yellow;
+}
+.oliva{
+    display:inline-block;
+    color: olive;
+}
+.rojo{
+    color:red;
+    display:inline-block;
+}
+.marron{
+    display:inline-block;
+    color: maroon;
+}
+.gris{
+display: inline-block;
+color: gray;
+}
+.fusia{
+    display: inline-block;
+    color:fuchsia;
+}
+.verde{
+display: inline-block;
+color:green;
+}
+.agua{
+    display: inline-block;
+    color:aqua;
+}
+.silver{
+    display: inline-block;
+    color:silver;
+}
+.container {
+ margin-left: 1000px;
+}
+
+
